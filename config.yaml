@@ -1,4 +1,3 @@
-
 default_chain: stride-testnet
 chains:
   stride-testnet:
