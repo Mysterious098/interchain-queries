@@ -1,7 +1,7 @@
 default_chain: stride-testnet
 chains:
   stride-testnet:
-    key: Bayram
+    key: Burcu
     chain-id: STRIDE-TESTNET-4
     rpc-addr: http://127.0.0.1:16657
     grpc-addr: http://0.0.0.0:16090
@@ -16,7 +16,7 @@ chains:
     output-format: json
     sign-mode: direct
  gaia-testnet:
-    key: Bayram
+    key: Burcu
     chain-id: GAIA
     rpc-addr: http://142.93.5.104:23657
     grpc-addr: http://142.93.5.104:23090
